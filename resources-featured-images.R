@@ -38,10 +38,8 @@ walk(resource_titles, create_screenshot)
 
 # Create spreadsheet ------------------------------------------------------
 
-# resources_featured_images <- 
-  resources %>% 
+resources_featured_images <- resources %>%
   mutate(featured_image = title) %>% 
   mutate(featured_image = make_clean_names(featured_image, sep_out = "-")) %>% 
-  mutate(featured_image = paste0("plots/", featured_image, ".png")) %>% 
-  view()
-
+  mutate(featured_image = paste0("https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/", featured_image, ".png")) %>% 
+  select(title, featured_image)
