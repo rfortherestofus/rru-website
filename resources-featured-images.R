@@ -1,45 +1,40 @@
+# -------------------------------- #
+# - Take screenshot of resources - #
+# -------------------------------- #
+
 library(tidyverse)
 library(janitor)
-library(webshot)
-library(magick)
 
-resources <- read_csv("data/Resources-For export.csv") %>% 
-  clean_names()
+# Screenshot --------------------------------------------------------------
+# list of resources + comparing to missing - delete the screenshot to generate a new one
+resources <- read_csv("data/Resources-For export.csv") %>%
+  clean_names() %>%
+  mutate(filename = paste0("plots/", make_clean_names(title, sep_out = "-"), ".png")) %>% 
+  filter(!filename %in% list.files("plots", full.names = TRUE))
 
-create_screenshot <- function(resource_title) {
-  
-  resources_filtered <- resources %>% 
-    filter(title == resource_title)
-  
-  url <- resources_filtered$url
-  
-  filename <- resources_filtered$title %>% 
-    make_clean_names(sep_out = "-") %>% 
-    paste0("plots/", ., ".png")
-  
-  
-  webshot(url = url,
+# screenshot and resizing - webshot is vectorized but it generates some errors
+walk2(resources$url,
+      resources$filename,
+      function(url, filename) {
+        webshot2::webshot(
+          url = url,
           file = filename,
           cliprect = "viewport",
           delay = 3,
           vwidth = 400 * 5,
-          vheight = 225 * 5) 
-  
-  image_read(filename) %>% 
-    image_scale("400") %>% 
-    image_write(path = filename)
-}
-
-resource_titles <- resources %>% 
-  pull(title)
-
-walk(resource_titles, create_screenshot)
-
+          vheight = 225 * 5
+        ) %>%
+          webshot::resize("400x")
+      })
 
 # Create spreadsheet ------------------------------------------------------
-
 resources_featured_images <- resources %>%
-  mutate(featured_image = title) %>% 
-  mutate(featured_image = make_clean_names(featured_image, sep_out = "-")) %>% 
-  mutate(featured_image = paste0("https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/", featured_image, ".png")) %>% 
-  select(title, featured_image)
+  mutate(
+    featured_image = paste0(
+      "https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/",
+      make_clean_names(title, sep_out = "-"),
+      ".png"
+    )
+  ) %>%
+  select(title, featured_image) %>% 
+  write_csv("data/Resources-screenshot_names.csv")
