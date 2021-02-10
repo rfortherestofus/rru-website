@@ -1,0 +1,94 @@
+title,featured_image
+10+ Guidelines for Better Tables in R,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/x10-guidelines-for-better-tables-in-r.png
+A Scientist's Guide to R: Step 1. Getting Data into R,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/a-scientists-guide-to-r-step-1-getting-data-into-r.png
+A Scientist's Guide to R: Step 2.1. Data Transformation - Part 1,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/a-scientists-guide-to-r-step-2-1-data-transformation-part-1.png
+A Scientist's Guide to R: Step 2.2 - Joining Data with dplyr,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/a-scientists-guide-to-r-step-2-2-joining-data-with-dplyr.png
+A Scientist's Guide to R: Step 2.4 - forcats for factors,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/a-scientists-guide-to-r-step-2-4-forcats-for-factors.png
+A Scientist's Guide to R: Step 2.5 - dates & times,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/a-scientists-guide-to-r-step-2-5-dates-times.png
+gt Workshop 2020!,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/gt-workshop-2020.png
+Learning tidyselect,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/learning-tidyselect.png
+Personal Art Map with R,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/personal-art-map-with-r.png
+Reactable Tutorial,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/reactable-tutorial.png
+Rendering your README with GitHub Actions,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/rendering-your-readme-with-git-hub-actions.png
+Tidy Data Vignette,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/tidy-data-vignette.png
+broom,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/broom.png
+colorblindcheck,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/colorblindcheck.png
+colorblindr,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/colorblindr.png
+covdata,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/covdata.png
+cowplot,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/cowplot.png
+dplyr,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/dplyr.png
+forcats,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/forcats.png
+geogrid,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/geogrid.png
+ggittext,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/ggittext.png
+ggplot2,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/ggplot2.png
+ggspatial,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/ggspatial.png
+ggtext,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/ggtext.png
+gt,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/gt.png
+haven,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/haven.png
+lubridate,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/lubridate.png
+patchwork,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/patchwork.png
+plotly,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/plotly.png
+purrr,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/purrr.png
+qualtRics,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/qualt-rics.png
+QualtricsInR,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/qualtrics-in-r.png
+raster,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/raster.png
+reactable,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/reactable.png
+readr,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/readr.png
+readxl,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/readxl.png
+rtweet,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/rtweet.png
+rvest,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/rvest.png
+sf,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/sf.png
+stringr,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/stringr.png
+stringr.plus,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/stringr-plus.png
+tidykids,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/tidykids.png
+tidyr,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/tidyr.png
+tidyverse,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/tidyverse.png
+tilemaps,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/tilemaps.png
+usethis,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/usethis.png
+zipcodeR,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/zipcode-r.png
+ggplot2: elegant graphics for data analysis,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/ggplot2-elegant-graphics-for-data-analysis.png
+"R as GIS, Part 1",https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/r-as-gis-part-1.png
+Date Night: using lubridate to work with dates in R,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/date-night-using-lubridate-to-work-with-dates-in-r.png
+A ggplot2 Tutorial for Beautiful Plotting in R,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/a-ggplot2-tutorial-for-beautiful-plotting-in-r.png
+savonliquide,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/savonliquide.png
+breakerofchains,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/breakerofchains.png
+tidylog,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/tidylog.png
+ggsteam,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/ggsteam.png
+Importing Multiple Files Quickly and Efficiently,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/importing-multiple-files-quickly-and-efficiently.png
+data.table,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/data-table.png
+vroom,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/vroom.png
+Leveraging labelled data in R,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/leveraging-labelled-data-in-r.png
+sjlabelled,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/sjlabelled.png
+labelled,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/labelled.png
+flair,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/flair.png
+xaringan,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/xaringan.png
+How to Make Slides in R Using xaringan,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/how-to-make-slides-in-r-using-xaringan.png
+Meet xaringan: making slides in RMarkdown,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/meet-xaringan-making-slides-in-r-markdown.png
+xaringanthemer,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/xaringanthemer.png
+xaringancolor,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/xaringancolor.png
+xaringanExtra,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/xaringan-extra.png
+xaringanBuilder,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/xaringan-builder.png
+Microsoft365R,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/microsoft365r.png
+gluedown,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/gluedown.png
+Introduction to the Field of Statistics (and R Statistical Software),https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/introduction-to-the-field-of-statistics-and-r-statistical-software.png
+RMarkdown,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/r-markdown.png
+R’s Killer Feature: RMarkdown,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/r-s-killer-feature-r-markdown.png
+R-Bootcamp,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/r-bootcamp.png
+Data Science for the Biomedical Sciences,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/data-science-for-the-biomedical-sciences.png
+Stat545,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/stat545.png
+Getting more out of dplyr,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/getting-more-out-of-dplyr.png
+ViewPipeSteps,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/view-pipe-steps.png
+Pivoting tidily,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/pivoting-tidily.png
+Data Wrangling with dplyr and tidyr,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/data-wrangling-with-dplyr-and-tidyr.png
+RStudio Cloud Primer: Work with Data,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/r-studio-cloud-primer-work-with-data.png
+RStudio Cloud Primer: Tidy Your Data,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/r-studio-cloud-primer-tidy-your-data.png
+RStudio Cloud Primer: Visualize Your Data,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/r-studio-cloud-primer-visualize-your-data.png
+RStudio Cloud Primer: Iterate,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/r-studio-cloud-primer-iterate.png
+RStudio Cloud Primer: Functions,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/r-studio-cloud-primer-functions.png
+Using the tidyverse with Databases,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/using-the-tidyverse-with-databases.png
+dbplyr,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/dbplyr.png
+RSQLite,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/rsq-lite.png
+DBI,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/dbi.png
+R for Data Science: Chapter 19: Functions,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/r-for-data-science-chapter-19-functions.png
+Stat545: Chapters 18-20: Write your own functions,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/stat545-chapters-18-20-write-your-own-functions.png
+How to Make Functions in R,https://raw.githubusercontent.com/rfortherestofus/rru-website/master/plots/how-to-make-functions-in-r.png
