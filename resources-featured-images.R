@@ -75,5 +75,5 @@ resources_featured_images <- resources %>%
       ".png"
     )
   ) %>%
-  select(title, featured_image) %>%
-  write_csv("data/Resources-screenshot_names.csv")
+  write_csv("data/resources-to-import.csv",
+            na = "")
