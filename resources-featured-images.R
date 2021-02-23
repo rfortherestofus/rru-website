@@ -42,7 +42,7 @@ resources_to_logo <- resources %>%
 
 # loading a white square
 white_square <-
-  image_read_svg("https://upload.wikimedia.org/wikipedia/commons/1/1f/Blank_square.svg") %>%
+  image_read_svg("white-square.svg") %>%
   image_crop("212x212+50")
 
 # download, resize, center, save
