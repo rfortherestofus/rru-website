@@ -1,4 +1,6 @@
-﻿Title,Description,Category,Type,Creator(s),Collection,Related Resource,URL,Logo,Featured Image,Imported
+Title,Description,Category,Type,Creator(s),Collection,Related Resource,URL,Logo,Featured Image,Imported
+"Tidy Data for Efficiency, Reproducibility, and Collaboration","This blog post walks through the definition of tidy data and how using tidy data improves the efficiency of your code, problem solving and the reproducibility of your code.
+",Tidy Data,Learning Resource,"Julie Lowndes, Allison Horst",,tidyr,https://www.openscapes.org/blog/2020/10/12/tidy-data/,,,
 R for Data Science,"Considered the ""bible"" of the tidyverse approach, this book has chapters on all of the fundamental skills you need to work with R.
 ",,Learning Resource,"Hadley Wickham,Garrett Grolmund",,,https://r4ds.had.co.nz/,,,
 What is a tidyverse-centric approach?,"This blog post lays out what a tidyverse-centric approach to R is, and why you might consider using it in your own code.",,Learning Resource,David Keyes,,tidyverse,https://rfortherestofus.com/2019/06/what-is-a-tidyverse-centric-approach/,,,
